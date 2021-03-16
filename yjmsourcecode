@@ -1,7 +1,7 @@
 import datetime
 import discord
 from random import*
-token = "ODA2MDgwNDQ1NjQ5MTI1Mzg2.YBkO6g.s1U7_kJPv0mpw3sH_3obcHk9zW4"
+token = ""
 client = discord.Client()
 
 @client.event
